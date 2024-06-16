@@ -1,5 +1,12 @@
 # Project Setup Instructions
 
+## YouTube Demo
+
+Watch the demo video to see the workflow in action:
+
+[![Watch the video](https://img.youtube.com/vi/hKgX2p4FbUw/0.jpg)](https://youtu.be/hKgX2p4FbUw)
+
+
 ## Required Tools / Files
 
 1. [RapidMiner](https://my.rapidminer.com/nexus/account/index.html#downloads)
